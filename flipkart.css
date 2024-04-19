@@ -1,0 +1,241 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: rgb(236, 234, 234);
+}
+/* navbar styling */
+.navbar{
+    background-color: white;
+    height: 60px;
+    width: 100%;
+    margin-top: 0px;
+    position: sticky;
+    top:0;
+}
+.flip-con{
+    margin-left:20px;
+}
+.flip-flipkart{
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:#047BD5;
+}
+.flip-explore{
+    color:#878787;
+    font-size: 11.5px;
+    font-family:'Franklin Gothic Medium';
+}
+.flip-plus{
+    color: #F7A200;
+    font-size: 11.5px;
+    font-family:'Franklin Gothic Medium';
+    padding-left: 5px;
+}
+.exp-plus{
+    display: flex;
+}
+.nav-search{
+    background-color: #e9efff;
+    height: 36px;
+    width: 380px;
+    color: #585858;
+    font-size: 18px;
+}
+.navbar{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+}
+.nav-search{
+    display: flex;
+    align-items: center;
+    border-radius: 5px;
+}
+/*cattigory styling*/
+.cattigory{
+    height: 150px;
+    width: 100%;
+    background-color: white;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.c1{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c1-img{
+    background-image: url(c1.webp);
+    background-size: cover;
+    height: 70px;
+}
+.element-name{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.c2{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c2-img{
+    background-image: url(c2.webp);
+    background-size: cover;
+    height: 70px;
+}
+.element-name{
+    font-size: 15px;
+    margin-left: 10px;
+}
+.c3{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c3-img{
+    background-image: url(c3.webp);
+    background-size: cover;
+    height: 70px;
+}
+.element-name{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.c4{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c4-img{
+    background-image: url(c4.webp);
+    background-size: cover;
+    height: 70px;
+}
+.element-name4{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.c5{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c5-img{
+    background-image: url(c5.webp);
+    background-size: cover;
+    height: 70px;
+}
+.element-name{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.c6{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c6-img{
+    background-image: url(c6.webp);
+    background-size: cover;
+    height: 55px;
+    width: 70px;
+}
+.element-name{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.c7{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c7-img{
+    background-image: url(c7.webp);
+    background-size: cover;
+    height: 70px;
+}
+.element-name{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+.c8{
+    height: 70px;
+    width: 70px;
+    background-color: rgb(255, 255, 255);
+}
+.c8-img{
+    background-image: url(c8.webp);
+    background-size: cover;
+    height: 70px;
+}
+.element-name8{
+    font-size: 15px;
+    margin-left: 10px;
+}
+/* stylling for realme 12x */
+
+.realme12x{
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+}
+.realme12x-img{
+    background-image: url(realme12.webp);
+    background-size: cover;
+    height: 180px;
+}
+/* stylling for mobiles containers */
+
+.mobile-con{
+    height: 350px;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.h22{
+    border: red solid 5px;
+    display: inline;
+    height: 25px;
+    width: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-m1{
+    height: 220px;
+    width: 170px;
+   border: rgb(199, 199, 199) solid 0.01px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   padding-top: 25px;
+   margin-top: 80px;
+} 
+
+.m1{
+    height: 220px;
+    width: 125px;
+    background-color: #ffffff;
+    
+}
+.m1-img{
+    background-image: url(m1.webp);
+    background-size:cover;
+    height: 170px;
+}
+.mobile-name{
+    padding-left: 15px;
+    padding-top: 15px;
+    font-size: 15px;
+}
